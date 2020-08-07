@@ -1,5 +1,5 @@
 import java.util.Random;
-class LnrSrch 
+public class LnrSrch 
 {
 	public static int search(int arr[], int x)
 	{
